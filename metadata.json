@@ -1,0 +1,6 @@
+{
+  "name": "Vāc – AI Sanskrit Tutor & Pronunciation Coach",
+  "description": "Intelligent multilingual Sanskrit tutor, translator, grammar doctor, and pronunciation coach supporting English, Tamil, Hindi, Telugu, and more.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
